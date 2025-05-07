@@ -91,3 +91,9 @@ header {
     margin-left: auto;
     margin-right: 20px;
 }
+
+body {
+    background-color: var(--rosona);
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
