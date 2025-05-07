@@ -86,3 +86,8 @@ header {
 #menu-toggle:checked + .botao-materias {
     background-color: white;
 }
+
+.pesquisa {
+    margin-left: auto;
+    margin-right: 20px;
+}
