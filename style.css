@@ -78,3 +78,7 @@ header {
 .lista b:hover {
     background-color: var(--areia-rosa);
 }
+
+#menu-toggle:checked ~ .lista {
+    display: block;
+}
