@@ -54,3 +54,14 @@ header {
 #menu-toggle {
     display: none;
 }
+
+.lista {
+    display: none;
+    position: absolute;
+    background-color: var(--rosinha);
+    box-shadow: 0 2px 5px var(--rosona);
+    min-width: 190px;
+    z-index: 1;
+    top: 100%;
+    border-radius: 5px;
+}
