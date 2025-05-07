@@ -82,3 +82,7 @@ header {
 #menu-toggle:checked ~ .lista {
     display: block;
 }
+
+#menu-toggle:checked + .botao-materias {
+    background-color: white;
+}
