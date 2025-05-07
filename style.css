@@ -19,3 +19,8 @@ header {
     position: relative; /*posiciona em relação a posição inicial*/
     justify-content: center;
 }
+
+.menu-materias {
+    width: 15%;
+    display: inline-block;
+}
