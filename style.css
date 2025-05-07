@@ -24,3 +24,14 @@ header {
     width: 15%;
     display: inline-block;
 }
+
+.botao-materias {
+    cursor: pointer;
+    font-size: 20px;
+    background: none;
+    background-color: var(--rosinha);
+    border: none;
+    border-radius: 5px;
+    padding: 15px 12px;
+    color: black;
+}
