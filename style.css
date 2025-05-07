@@ -122,3 +122,9 @@ p, h2 {
     margin: 25px;
 }
 
+.comecinho {
+    color: plum;
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+}
