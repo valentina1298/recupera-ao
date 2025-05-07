@@ -50,3 +50,7 @@ header {
     text-decoration: none;
     color: black;
 }
+
+#menu-toggle {
+    display: none;
+}
