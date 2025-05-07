@@ -10,3 +10,12 @@
     --areia-rosa: #FFC0CB;
     --rosona: #F5EFFF;
 }
+
+header {
+    display: flex;
+    width: 100%;
+    background-color: var(--rosa);
+    padding: 25px; /*espaçamento interno*/
+    position: relative; /*posiciona em relação a posição inicial*/
+    justify-content: center;
+}
