@@ -123,8 +123,13 @@ p, h2 {
 }
 
 .comecinho {
-    color: plum;
+    color: rgb(232, 157, 203);
     display: flex;
     justify-content: left;
     padding: 20px;
+}
+
+.bagulho li {
+    list-style: circle;
+    margin: 20px;
 }
